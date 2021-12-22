@@ -1,0 +1,19 @@
+{
+  "name": "starter-pack_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//medvedium/starter-pack_v2.git"
+  },
+  "author": "Aleksey Andreev",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  }
+}
